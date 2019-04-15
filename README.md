@@ -1,9 +1,15 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+
+## Getting started
+
+1. Fork
+1. Create a feature branch
+1. Clone
+1. Pull Request
 
 ![](https://i.giphy.com/11eMJrshugz1PW.gif)
 
-# Morning Ex - Classy Cars
-
-## Assignment
+# Classy Cars
 
 ### 1. Create a Ruby class called Cars
  - Its initialize method should ask for the make, model, year, and color
